@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Boise, Idaho.
+subtitle: <a href='https://www.boisestate.edu/'>Boise State University</a>. Boise, Idaho.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Master's student in  <a href="https://www.boisestate.edu/coen-cs/people/faculty/catherine-olschanowsky/" target="_blank">Catherine Olschanowsky's</a> group at Boise State University, working on developing compilers for high performacne computing.
+I'm a Master's student in  <a href="https://www.boisestate.edu/coen-cs/people/faculty/catherine-olschanowsky/" target="_blank">Catherine Olschanowsky's</a> group at Boise State University, working on developing compilers for High-Performance Computing (HPC).
