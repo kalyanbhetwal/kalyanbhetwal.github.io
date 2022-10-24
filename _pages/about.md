@@ -19,3 +19,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Master's student in  <a href="https://www.boisestate.edu/coen-cs/people/faculty/catherine-olschanowsky/" target="_blank">Catherine Olschanowsky's</a> group at Boise State University, working on developing compilers for High-Performance Computing (HPC).
+
+I am broadly interested in Compiler, parallel computing and programming languages.
