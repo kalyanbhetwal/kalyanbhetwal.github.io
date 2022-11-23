@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.boisestate.edu/'>Boise State University</a>. Boise, Idaho.
+subtitle: <a href='https://www.boisestate.edu/'>Boise State University</a>. Boise, Idaho. 
 
 profile:
   align: right
